@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "Aarav Sharma",
+        "age": "20",
+        "course": "Computer Science",
+        "grade": "88.5",
+        "enrolled": "true"
+    },
+    {
+        "id": "2",
+        "name": "Priya Patel",
+        "age": "22",
+        "course": "Data Science",
+        "grade": "92.0",
+        "enrolled": "true"
+    },
+    {
+        "id": "3",
+        "name": "Rohan Mehta",
+        "age": "21",
+        "course": "Mathematics",
+        "grade": "76.25",
+        "enrolled": "false"
+    },
+    {
+        "id": "4",
+        "name": "Sneha Iyer",
+        "age": "19",
+        "course": "Physics",
+        "grade": "81.0",
+        "enrolled": "true"
+    },
+    {
+        "id": "5",
+        "name": "Karan Singh",
+        "age": "23",
+        "course": "Computer Science",
+        "grade": "69.75",
+        "enrolled": "false"
+    },
+    {
+        "id": "6",
+        "name": "Ananya Reddy",
+        "age": "20",
+        "course": "Data Science",
+        "grade": "95.5",
+        "enrolled": "true"
+    },
+    {
+        "id": "7",
+        "name": "Vikram Joshi",
+        "age": "22",
+        "course": "Mathematics",
+        "grade": "73.0",
+        "enrolled": "true"
+    },
+    {
+        "id": "8",
+        "name": "Meera Nair",
+        "age": "21",
+        "course": "Physics",
+        "grade": "84.5",
+        "enrolled": "true"
+    }
+]

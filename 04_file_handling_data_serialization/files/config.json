@@ -1,0 +1,20 @@
+{
+  "app_name": "LearnPython",
+  "version": "1.2.0",
+  "debug": true,
+  "max_connections": 10,
+  "timeout_seconds": 30.5,
+  "admin": {
+    "username": "admin",
+    "email": "admin@example.com",
+    "roles": ["read", "write", "delete"]
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "students_db",
+    "ssl": false
+  },
+  "allowed_hosts": ["localhost", "127.0.0.1", "example.com"],
+  "last_backup": null
+}

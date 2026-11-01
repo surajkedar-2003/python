@@ -1,0 +1,9 @@
+id,name,age,course,grade,enrolled
+1,Aarav Sharma,20,Computer Science,88.5,true
+2,Priya Patel,22,Data Science,92.0,true
+3,Rohan Mehta,21,Mathematics,76.25,false
+4,Sneha Iyer,19,Physics,81.0,true
+5,Karan Singh,23,Computer Science,69.75,false
+6,Ananya Reddy,20,Data Science,95.5,true
+7,Vikram Joshi,22,Mathematics,73.0,true
+8,Meera Nair,21,Physics,84.5,true

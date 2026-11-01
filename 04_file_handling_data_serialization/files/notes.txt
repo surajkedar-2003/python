@@ -1,0 +1,20 @@
+Python File Handling - Practice Notes
+=====================================
+Line 3: Files can be opened in modes like r, w, a, and r+.
+Line 4: Always prefer the "with" statement so files close automatically.
+Line 5: Use readline() to read one line, readlines() to read all lines.
+
+Shopping list:
+- apples
+- bread
+- milk
+- eggs
+
+TODO:
+1. Count the number of lines in this file.
+2. Count how many times the word "file" appears.
+3. Append a new line at the end.
+4. Write all lines that start with "Line" to a new file.
+
+The quick brown fox jumps over the lazy dog.
+Python is fun, and practice makes perfect!
